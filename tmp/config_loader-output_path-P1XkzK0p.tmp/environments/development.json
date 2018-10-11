@@ -1,0 +1,1 @@
+{"modulePrefix":"book-frontend-2","environment":"development","rootURL":"/","locationType":"auto","EmberENV":{"FEATURES":{},"EXTEND_PROTOTYPES":{"Date":false}},"APP":{"name":"book-frontend-2","version":"0.0.0+fb14e043"},"emberData":{"enableRecordDataRFCBuild":false},"exportApplicationGlobal":true}

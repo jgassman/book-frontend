@@ -1,0 +1,1 @@
+/Users/imtapps/Projects/personal-projects/book-frontend/tmp/broccoli_persistent_filtertemplate_compiler-output_path-KGnpNVJa.tmp/book-frontend-2/templates/application.js

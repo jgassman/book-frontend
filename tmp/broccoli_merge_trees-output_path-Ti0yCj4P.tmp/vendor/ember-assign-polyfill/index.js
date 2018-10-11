@@ -1,0 +1,1 @@
+/Users/imtapps/Projects/personal-projects/book-frontend/node_modules/ember-assign-polyfill/vendor/ember-assign-polyfill/index.js

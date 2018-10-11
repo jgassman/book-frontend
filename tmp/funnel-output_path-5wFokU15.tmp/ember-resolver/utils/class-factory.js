@@ -1,0 +1,1 @@
+/Users/imtapps/Projects/personal-projects/book-frontend/tmp/funnel-input_base_path-7s6y3kwO.tmp/utils/class-factory.js

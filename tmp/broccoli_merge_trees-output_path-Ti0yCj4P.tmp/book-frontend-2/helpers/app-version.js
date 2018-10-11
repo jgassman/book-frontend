@@ -1,0 +1,1 @@
+/Users/imtapps/Projects/personal-projects/book-frontend/node_modules/ember-cli-app-version/app/helpers/app-version.js

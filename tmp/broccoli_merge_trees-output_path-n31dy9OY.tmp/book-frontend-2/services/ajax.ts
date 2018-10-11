@@ -1,0 +1,1 @@
+/Users/imtapps/Projects/personal-projects/book-frontend/tmp/broccoli_persistent_filterbabel__babel_book_frontend_-input_base_path-62OxTN3z.tmp/book-frontend-2/services/ajax.ts
