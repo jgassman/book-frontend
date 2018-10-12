@@ -1,1 +1,0 @@
-/Users/imtapps/Projects/personal-projects/book-frontend/node_modules/ember-resolver/vendor/ember-resolver/legacy-shims.js

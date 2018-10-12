@@ -4644,17 +4644,17 @@ define('book-frontend-2/tests/lint/app.lint-test', [], function () {
 
   QUnit.test('app.js', function (assert) {
     assert.expect(1);
-    assert.ok(false, 'app.js should pass ESLint\n\n1:45 - Extra semicolon. (semi)\n2:34 - Extra semicolon. (semi)\n3:55 - Extra semicolon. (semi)\n4:42 - Extra semicolon. (semi)\n10:3 - Extra semicolon. (semi)\n12:43 - Extra semicolon. (semi)\n14:19 - Extra semicolon. (semi)');
+    assert.ok(true, 'app.js should pass ESLint\n\n');
   });
 
   QUnit.test('resolver.js', function (assert) {
     assert.expect(1);
-    assert.ok(false, 'resolver.js should pass ESLint\n\n1:38 - Extra semicolon. (semi)\n3:24 - Extra semicolon. (semi)');
+    assert.ok(true, 'resolver.js should pass ESLint\n\n');
   });
 
   QUnit.test('router.js', function (assert) {
     assert.expect(1);
-    assert.ok(false, 'router.js should pass ESLint\n\n1:48 - Extra semicolon. (semi)\n2:42 - Extra semicolon. (semi)\n7:3 - Extra semicolon. (semi)\n9:20 - Missing space before function parentheses. (space-before-function-paren)\n10:3 - Extra semicolon. (semi)\n12:22 - Extra semicolon. (semi)');
+    assert.ok(true, 'router.js should pass ESLint\n\n');
   });
 });
 define('book-frontend-2/tests/lint/templates.template.lint-test', [], function () {
@@ -4674,7 +4674,7 @@ define('book-frontend-2/tests/lint/tests.lint-test', [], function () {
 
   QUnit.test('test-helper.js', function (assert) {
     assert.expect(1);
-    assert.ok(false, 'test-helper.js should pass ESLint\n\n1:33 - Extra semicolon. (semi)\n2:43 - Extra semicolon. (semi)\n3:53 - Extra semicolon. (semi)\n4:36 - Extra semicolon. (semi)\n6:47 - Extra semicolon. (semi)\n8:8 - Extra semicolon. (semi)');
+    assert.ok(true, 'test-helper.js should pass ESLint\n\n');
   });
 });
 define("qunit/index", ["exports"], function (exports) {

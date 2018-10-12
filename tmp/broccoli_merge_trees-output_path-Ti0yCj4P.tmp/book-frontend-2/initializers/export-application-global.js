@@ -1,1 +1,0 @@
-/Users/imtapps/Projects/personal-projects/book-frontend/node_modules/ember-export-application-global/app/initializers/export-application-global.js

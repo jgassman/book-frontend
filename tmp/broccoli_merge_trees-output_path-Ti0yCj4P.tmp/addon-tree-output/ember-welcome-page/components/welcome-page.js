@@ -1,1 +1,0 @@
-/Users/imtapps/Projects/personal-projects/book-frontend/tmp/broccoli_persistent_filterbabel__babel_ember_welcome_page-output_path-diYEqG15.tmp/ember-welcome-page/components/welcome-page.js
